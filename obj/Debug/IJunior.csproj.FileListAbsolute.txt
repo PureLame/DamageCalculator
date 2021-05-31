@@ -1,0 +1,7 @@
+C:\Users\Dima\source\repos\IJunior\bin\Debug\IJunior.exe.config
+C:\Users\Dima\source\repos\IJunior\bin\Debug\IJunior.exe
+C:\Users\Dima\source\repos\IJunior\bin\Debug\IJunior.pdb
+C:\Users\Dima\source\repos\IJunior\obj\Debug\IJunior.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\IJunior\obj\Debug\IJunior.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\IJunior\obj\Debug\IJunior.exe
+C:\Users\Dima\source\repos\IJunior\obj\Debug\IJunior.pdb
